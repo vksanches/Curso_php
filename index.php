@@ -37,6 +37,48 @@
                                Integração CSS
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=comentarios">
+                               Comentarios php
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=desafio1">
+                               Desafio
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            <nav class="modulos">
+                <div class="modulo vermelho">
+                    <h3>Modulo 02 - tipos</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=int">
+                               Tipos Inteiros
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=float">
+                               tipos flutuantes
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=aritimetica">
+                               aritimetica
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=comentarios">
+                               Comentarios php
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=desafio1">
+                               Desafio
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
