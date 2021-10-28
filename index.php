@@ -70,13 +70,13 @@
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=tipos&file=comentarios">
-                               Comentarios php
+                            <a href="exercicio.php?dir=tipos&file=desafio02">
+                               Desafio_procedencia
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=basico&file=desafio1">
-                               Desafio
+                            <a href="exercicio.php?dir=tipos&file=string">
+                               Tipo string
                             </a>
                         </li>
                     </ul>
