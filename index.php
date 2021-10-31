@@ -96,6 +96,27 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo roxo">
+                    <h3>Modulo 03 - variaveis</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=basico">
+                               variaveis
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=desafio1">
+                               Desafio Variaveis
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=atribuicao">
+                               atribuição
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
             </nav>
         </div>
     </main>
