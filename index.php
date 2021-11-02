@@ -114,9 +114,63 @@
                                atribuição
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=interpolacao">
+                               Interpolação
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=varvar">
+                               Variaveis Variaveis
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=desafiovar">
+                               Desafio variaveis
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=valorref">
+                               Valos vs referencia
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=constante">
+                               Constantes
+                            </a>
+                        </li>
                     </ul>
                 </div>
-
+                <div class="modulo azul">
+                    <h3>Modulo - 04</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=if_else">
+                               if_else
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=relacional">
+                               Operadores Relacionais
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=desafio">
+                               Desafio Pi
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=oplogico">
+                               Operadores Logicos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=desafio2">
+                               Desafio 02
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
