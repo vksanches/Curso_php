@@ -169,6 +169,31 @@
                                Desafio 02
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=ternario">
+                               Op. Ternario
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=switch">
+                               Switch
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=desafio3">
+                               Desafio Switch
+                            </a>
+                        </li>                                  
+                    </ul>
+                </div>
+                <div class="modulo laranja">
+                    <h3>Array</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=basico">
+                               basico
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
