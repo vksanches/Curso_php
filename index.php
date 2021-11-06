@@ -194,6 +194,26 @@
                                basico
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=mapa">
+                               Mapa
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=desafioarray">
+                               Desafio Array
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=desafiomeses">
+                               Desafio Meses
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=operacoes">
+                               Operações
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
